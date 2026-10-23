@@ -1,21 +1,113 @@
-# 💫 About Me:
-🔭 I'm currently looking for a job<br>🤝 I'm looking for help with programming tips<br>🌱 I'm currently learning AI Development and studying for a Higher Technical Degree in Programming<br>⚡ Fun fact: I like red wine.
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · facu-ferreyra</sub></p>
+<h1>Facu_Ferreyra</h1>
+<h2>Backend or systems engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/facu_ferreyra99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/facundo-ferreyra99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:facundof99.ff@gmail.com) 
+<p><a href="https://github.com/facu-ferreyra">GitHub</a> &nbsp;·&nbsp; <a href="https://devff.tech">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/91506231?u=94465d41cb4db73f6947b7bd0a929b766259b68c&amp;v=4" width="180" alt="Facu_Ferreyra GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Facu-Ferreyra&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Facu-Ferreyra&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Facu-Ferreyra&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · C# · TSQL · ASP.NET</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>197 contributions · 53 active days</p></td>
+</tr>
+</table>
 
----
-[![](https://komarev.com/ghpvc/?username=Facu-Ferreyra&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>197</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=facu-ferreyra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91506231%3Fu%3D94465d41cb4db73f6947b7bd0a929b766259b68c%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=facu-ferreyra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91506231%3Fu%3D94465d41cb4db73f6947b7bd0a929b766259b68c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Facu_Ferreyra GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=facu-ferreyra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91506231%3Fu%3D94465d41cb4db73f6947b7bd0a929b766259b68c%26v%3D4&repos=facu-ferreyra%2FAsistIA-Postulaciones%2Cfacu-ferreyra%2FSaque_y_Volea_Web%2Cfacu-ferreyra%2FCompila%2Cfacu-ferreyra%2Fwarranty-app-api&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=facu-ferreyra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91506231%3Fu%3D94465d41cb4db73f6947b7bd0a929b766259b68c%26v%3D4&repos=facu-ferreyra%2FAsistIA-Postulaciones%2Cfacu-ferreyra%2FSaque_y_Volea_Web%2Cfacu-ferreyra%2FCompila%2Cfacu-ferreyra%2Fwarranty-app-api&v=recruiter-projects-1&mode=dark" width="100%" alt="Facu_Ferreyra selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Facu-Ferreyra/AsistIA-Postulaciones">AsistIA-Postulaciones</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Facu-Ferreyra/AsistIA-Postulaciones">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Facu-Ferreyra/Saque_y_Volea_Web">Saque_y_Volea_Web</a></h3><p>Este repo, es la solución a la falta de presencia digital de dicho complejo</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Facu-Ferreyra/Compila">Compila</a></h3><p>Compilá es una plataforma web de juegos de programación. Cada juego es un modo; todos comparten usuarios, perfil, salas y rival de IA. Nombre técnico</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Facu-Ferreyra/warranty-app-api">warranty-app-api</a></h3><p>Backend en NestJS para el Proyecto N°3</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=facu-ferreyra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91506231%3Fu%3D94465d41cb4db73f6947b7bd0a929b766259b68c%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=facu-ferreyra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91506231%3Fu%3D94465d41cb4db73f6947b7bd0a929b766259b68c%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Facu_Ferreyra technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>C#</strong><br /><sub>24% of public code</sub></td>
+<td width="20%" align="center"><strong>TSQL</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>ASP.NET</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>15% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>13% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=facu-ferreyra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91506231%3Fu%3D94465d41cb4db73f6947b7bd0a929b766259b68c%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=facu-ferreyra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91506231%3Fu%3D94465d41cb4db73f6947b7bd0a929b766259b68c%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Facu_Ferreyra contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/facu-ferreyra">GitHub</a><br /><a href="https://devff.tech">Website</a></td>
+</tr>
+</table>
